@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342985422012",
+    "project_id": "autotranstandaloneinspection",
+    "storage_bucket": "autotranstandaloneinspection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342985422012:android:854d58bba3acbb4d418cb9",
+        "android_client_info": {
+          "package_name": "com.example.autotranstandaloneinspection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzaAxC0lgfzKiT0mmxkmu05c6GhzsalDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
