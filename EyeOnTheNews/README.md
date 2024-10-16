@@ -1,7 +1,7 @@
 # EyeOnTheNews
 
 EyeOnTheNews is a news application that provides users with the latest news articles from various sources. 
-It aims to eventually offers personalized recommendations based on trending topics, allowing users to stay updated with the most relevant news.
+It aims to eventually offer personalized recommendations based on trending topics, allowing users to stay updated with the most relevant news.
 
 ## Features implemented
 
