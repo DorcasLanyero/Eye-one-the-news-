@@ -28,10 +28,10 @@ EyeOnTheNews is built using a variety of resources:
     - Coil for handling images
 - **Design**: The app follows Material Design guidelines for a clean and intuitive user interface.
   
-  -**The following resources were used to aid the app design**:
-      - Canva for logo design
-      - Dribble for app design inspiration
-      - Figma for creating UI components 
+- **The following resources were used to aid the app design**:
+    - Canva for logo design
+    - Dribble for app design inspiration
+    - Figma for creating UI components 
       
 
 ## Open Source Code
